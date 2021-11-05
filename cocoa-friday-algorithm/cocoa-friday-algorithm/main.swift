@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+// 제출 시 입력 형식 맞추기
+// 함수 안쪽의 코드만 복붙해 채점해 보기
+
+runP1000()
 

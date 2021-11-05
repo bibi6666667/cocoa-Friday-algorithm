@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		00979A562734DA0000E0234F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A552734DA0000E0234F /* main.swift */; };
+		00979A5D2734DA7C00E0234F /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A5C2734DA7C00E0234F /* p1000.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		00979A522734DA0000E0234F /* cocoa-friday-algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cocoa-friday-algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00979A552734DA0000E0234F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		00979A5C2734DA7C00E0234F /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				00979A552734DA0000E0234F /* main.swift */,
+				00979A5C2734DA7C00E0234F /* p1000.swift */,
 			);
 			path = "cocoa-friday-algorithm";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00979A562734DA0000E0234F /* main.swift in Sources */,
+				00979A5D2734DA7C00E0234F /* p1000.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
