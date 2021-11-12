@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		004AB98D273E178900B16CB9 /* p12910.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004AB98C273E178900B16CB9 /* p12910.swift */; };
 		00979A562734DA0000E0234F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A552734DA0000E0234F /* main.swift */; };
 		00979A5D2734DA7C00E0234F /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A5C2734DA7C00E0234F /* p1000.swift */; };
 		00979A5F273506FA00E0234F /* p1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A5E273506FA00E0234F /* p1008.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		004AB98C273E178900B16CB9 /* p12910.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12910.swift; sourceTree = "<group>"; };
 		00979A522734DA0000E0234F /* cocoa-friday-algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cocoa-friday-algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00979A552734DA0000E0234F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		00979A5C2734DA7C00E0234F /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 		004AB98B273E171000B16CB9 /* programmers */ = {
 			isa = PBXGroup;
 			children = (
+				004AB98C273E178900B16CB9 /* p12910.swift */,
 			);
 			path = programmers;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				00979A562734DA0000E0234F /* main.swift in Sources */,
 				00979A5F273506FA00E0234F /* p1008.swift in Sources */,
 				00979A5D2734DA7C00E0234F /* p1000.swift in Sources */,
+				004AB98D273E178900B16CB9 /* p12910.swift in Sources */,
 				00979A6127350BC300E0234F /* p2438.swift in Sources */,
 				00979A672735145500E0234F /* p11654.swift in Sources */,
 				00979A6327350E2E00E0234F /* p2920.swift in Sources */,
