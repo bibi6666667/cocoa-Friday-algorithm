@@ -50,6 +50,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		004AB98A273E16F800B16CB9 /* bj */ = {
+			isa = PBXGroup;
+			children = (
+				00979A5C2734DA7C00E0234F /* p1000.swift */,
+				00979A5E273506FA00E0234F /* p1008.swift */,
+				00979A6027350BC300E0234F /* p2438.swift */,
+				00979A6227350E2E00E0234F /* p2920.swift */,
+				00979A6427350F8800E0234F /* p8958.swift */,
+				00979A662735145500E0234F /* p11654.swift */,
+			);
+			path = bj;
+			sourceTree = "<group>";
+		};
+		004AB98B273E171000B16CB9 /* programmers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = programmers;
+			sourceTree = "<group>";
+		};
 		00979A492734DA0000E0234F = {
 			isa = PBXGroup;
 			children = (
@@ -70,12 +90,8 @@
 			isa = PBXGroup;
 			children = (
 				00979A552734DA0000E0234F /* main.swift */,
-				00979A5C2734DA7C00E0234F /* p1000.swift */,
-				00979A5E273506FA00E0234F /* p1008.swift */,
-				00979A6027350BC300E0234F /* p2438.swift */,
-				00979A6227350E2E00E0234F /* p2920.swift */,
-				00979A6427350F8800E0234F /* p8958.swift */,
-				00979A662735145500E0234F /* p11654.swift */,
+				004AB98B273E171000B16CB9 /* programmers */,
+				004AB98A273E16F800B16CB9 /* bj */,
 			);
 			path = "cocoa-friday-algorithm";
 			sourceTree = "<group>";
