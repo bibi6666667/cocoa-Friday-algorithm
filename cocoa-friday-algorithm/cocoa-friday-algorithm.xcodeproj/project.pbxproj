@@ -10,6 +10,7 @@
 		004AB98D273E178900B16CB9 /* p12910.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004AB98C273E178900B16CB9 /* p12910.swift */; };
 		004AB98F273E3EC900B16CB9 /* p64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004AB98E273E3EC900B16CB9 /* p64061.swift */; };
 		004AB991273E5E4D00B16CB9 /* p68644.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004AB990273E5E4D00B16CB9 /* p68644.swift */; };
+		004AB993273E62E700B16CB9 /* p42840.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004AB992273E62E700B16CB9 /* p42840.swift */; };
 		00979A562734DA0000E0234F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A552734DA0000E0234F /* main.swift */; };
 		00979A5D2734DA7C00E0234F /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A5C2734DA7C00E0234F /* p1000.swift */; };
 		00979A5F273506FA00E0234F /* p1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00979A5E273506FA00E0234F /* p1008.swift */; };
@@ -35,6 +36,7 @@
 		004AB98C273E178900B16CB9 /* p12910.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12910.swift; sourceTree = "<group>"; };
 		004AB98E273E3EC900B16CB9 /* p64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p64061.swift; sourceTree = "<group>"; };
 		004AB990273E5E4D00B16CB9 /* p68644.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p68644.swift; sourceTree = "<group>"; };
+		004AB992273E62E700B16CB9 /* p42840.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p42840.swift; sourceTree = "<group>"; };
 		00979A522734DA0000E0234F /* cocoa-friday-algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cocoa-friday-algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00979A552734DA0000E0234F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		00979A5C2734DA7C00E0234F /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				004AB98C273E178900B16CB9 /* p12910.swift */,
 				004AB98E273E3EC900B16CB9 /* p64061.swift */,
 				004AB990273E5E4D00B16CB9 /* p68644.swift */,
+				004AB992273E62E700B16CB9 /* p42840.swift */,
 			);
 			path = programmers;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				004AB993273E62E700B16CB9 /* p42840.swift in Sources */,
 				00979A6527350F8800E0234F /* p8958.swift in Sources */,
 				00979A562734DA0000E0234F /* main.swift in Sources */,
 				00979A5F273506FA00E0234F /* p1008.swift in Sources */,
