@@ -12,9 +12,9 @@ func timeConversion(s: String) -> String {
     // Write your code here
     var result = ""
     let timeIndex = s.index(s.startIndex, offsetBy: 7)
-    let timeStr = String(s[...timeIndex])
+    let timeStr = s.prefix(8)
     let ampmIndex = s.index(s.endIndex, offsetBy: -2)
-    let ampmStr = String(s[ampmIndex...])
+    let ampmStr = s.suffix(2)
     let timeArr = timeStr.split(separator: ":")
     let hourStr = timeArr[0]
     let minuteStr = timeArr[1]

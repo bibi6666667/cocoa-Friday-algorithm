@@ -7,7 +7,6 @@
 
 import Foundation
 
-print(timeConversion(s: "07:05:45PM"))
-print(timeConversion(s: "12:01:00PM"))
-print(timeConversion(s: "12:01:00AM"))
+print(kangaroo(x1: 0, v1: 3, x2: 4, v2: 2))
+print(kangaroo(x1: 0, v1: 2, x2: 5, v2: 3))
 
