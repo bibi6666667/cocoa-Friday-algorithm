@@ -7,5 +7,7 @@
 
 import Foundation
 
-print(aVeryBigSum(ar: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))
+print(timeConversion(s: "07:05:45PM"))
+print(timeConversion(s: "12:01:00PM"))
+print(timeConversion(s: "12:01:00AM"))
 
