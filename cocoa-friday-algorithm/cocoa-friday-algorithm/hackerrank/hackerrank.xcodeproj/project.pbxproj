@@ -11,6 +11,7 @@
 		00AC38C427474808004D309B /* solve-me-first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC38C327474808004D309B /* solve-me-first.swift */; };
 		00AC38C627474820004D309B /* grading-students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC38C527474820004D309B /* grading-students.swift */; };
 		00AC38C827474BB3004D309B /* compare-the-triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC38C727474BB3004D309B /* compare-the-triplets.swift */; };
+		00AC38CA27475046004D309B /* a-very-big-sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AC38C927475046004D309B /* a-very-big-sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		00AC38C327474808004D309B /* solve-me-first.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "solve-me-first.swift"; sourceTree = "<group>"; };
 		00AC38C527474820004D309B /* grading-students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "grading-students.swift"; sourceTree = "<group>"; };
 		00AC38C727474BB3004D309B /* compare-the-triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "compare-the-triplets.swift"; sourceTree = "<group>"; };
+		00AC38C927475046004D309B /* a-very-big-sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "a-very-big-sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				00AC38C327474808004D309B /* solve-me-first.swift */,
 				00AC38C527474820004D309B /* grading-students.swift */,
 				00AC38C727474BB3004D309B /* compare-the-triplets.swift */,
+				00AC38C927475046004D309B /* a-very-big-sum.swift */,
 			);
 			path = hackerrank;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00AC38CA27475046004D309B /* a-very-big-sum.swift in Sources */,
 				00AC38C627474820004D309B /* grading-students.swift in Sources */,
 				00AC38C427474808004D309B /* solve-me-first.swift in Sources */,
 				00AC38C827474BB3004D309B /* compare-the-triplets.swift in Sources */,

@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(compareTriplets(a: [17, 28, 30], b: [99, 16, 8]))
+print(aVeryBigSum(ar: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))
 
