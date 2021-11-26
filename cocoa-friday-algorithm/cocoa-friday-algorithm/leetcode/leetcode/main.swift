@@ -7,5 +7,9 @@
 
 import Foundation
 
-print(twoSum([3,2,4], 6))
-print(twoSum([3,3], 6))
+//two-sum
+//print(twoSum([3,2,4], 6))
+//print(twoSum([3,3], 6))
+
+//reverse-integer
+print(reverse(-12))
