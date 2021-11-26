@@ -15,4 +15,10 @@ import Foundation
 //print(reverse(-12))
 
 //palindrome-number
-print(isPalindrome(121))
+//print(isPalindrome(121))
+
+//roman-to-integer
+
+print(romanToInt("IV"))
+print(romanToInt("LVIII"))
+print(romanToInt("MCMXCIV"))
