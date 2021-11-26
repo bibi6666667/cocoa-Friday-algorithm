@@ -12,4 +12,7 @@ import Foundation
 //print(twoSum([3,3], 6))
 
 //reverse-integer
-print(reverse(-12))
+//print(reverse(-12))
+
+//palindrome-number
+print(isPalindrome(121))
