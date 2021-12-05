@@ -12,6 +12,7 @@
 		00B24D3C27508B18000DFE19 /* reverse-integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B24D3B27508B18000DFE19 /* reverse-integer.swift */; };
 		00B24D3E2750B4F0000DFE19 /* palindrome-number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B24D3D2750B4F0000DFE19 /* palindrome-number.swift */; };
 		00B24D402750C215000DFE19 /* roman-to-integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B24D3F2750C215000DFE19 /* roman-to-integer.swift */; };
+		00B24D422750C72C000DFE19 /* longest-common-prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B24D412750C72C000DFE19 /* longest-common-prefix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		00B24D3B27508B18000DFE19 /* reverse-integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "reverse-integer.swift"; sourceTree = "<group>"; };
 		00B24D3D2750B4F0000DFE19 /* palindrome-number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "palindrome-number.swift"; sourceTree = "<group>"; };
 		00B24D3F2750C215000DFE19 /* roman-to-integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "roman-to-integer.swift"; sourceTree = "<group>"; };
+		00B24D412750C72C000DFE19 /* longest-common-prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "longest-common-prefix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				00B24D3B27508B18000DFE19 /* reverse-integer.swift */,
 				00B24D3D2750B4F0000DFE19 /* palindrome-number.swift */,
 				00B24D3F2750C215000DFE19 /* roman-to-integer.swift */,
+				00B24D412750C72C000DFE19 /* longest-common-prefix.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00B24D402750C215000DFE19 /* roman-to-integer.swift in Sources */,
+				00B24D422750C72C000DFE19 /* longest-common-prefix.swift in Sources */,
 				00B24D3A27507C42000DFE19 /* two-sum.swift in Sources */,
 				00B24D3C27508B18000DFE19 /* reverse-integer.swift in Sources */,
 				00B24D3327507C27000DFE19 /* main.swift in Sources */,
